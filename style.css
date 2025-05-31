@@ -1,0 +1,12 @@
+body {
+  background: black;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;;
+  padding: 50px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: whitesmoke 
+}
